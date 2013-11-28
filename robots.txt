@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://carmenloklok.github.io/sitemap.xml 
+Sitemap: http://geeklok.com/sitemap.xml 
