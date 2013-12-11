@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://carmenloklok.github.io/blog/2013/11/06/inspirations-more-than-a-year/</loc>
+        <loc>http://geeklok.com/blog/2013/11/06/inspirations-more-than-a-year/</loc>
         <lastmod>2013-12-11T22:06:36+08:00</lastmod>
     </url>
     <url>
-        <loc>http://carmenloklok.github.io/robots.txt</loc>
+        <loc>http://geeklok.com/robots.txt</loc>
         <lastmod>2013-11-29T07:33:23+08:00</lastmod>
     </url>
     <url>
-        <loc>http://carmenloklok.github.io/</loc>
+        <loc>http://geeklok.com/</loc>
         <lastmod>2013-12-11T22:06:36+08:00</lastmod>
     </url>
     <url>
-        <loc>http://carmenloklok.github.io/blog/archives/</loc>
+        <loc>http://geeklok.com/blog/archives/</loc>
         <lastmod>2013-12-11T22:06:36+08:00</lastmod>
     </url>
 </urlset>
