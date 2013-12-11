@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[GeekLok]]></title>
-  <link href="http://geeklok.com/atom.xml" rel="self"/>
-  <link href="http://geeklok.com/"/>
-  <updated>2013-12-11T22:41:23+08:00</updated>
-  <id>http://geeklok.com/</id>
+  <link href="http://carmenloklok.github.io/atom.xml" rel="self"/>
+  <link href="http://carmenloklok.github.io/"/>
+  <updated>2013-12-11T23:09:04+08:00</updated>
+  <id>http://carmenloklok.github.io/</id>
   <author>
     <name><![CDATA[GeekLok]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[这一年多的感悟]]></title>
-    <link href="http://geeklok.com/blog/2013/11/06/inspirations-more-than-a-year/"/>
+    <link href="http://carmenloklok.github.io/blog/2013/11/06/inspirations-more-than-a-year/"/>
     <updated>2013-11-06T22:45:00+08:00</updated>
-    <id>http://geeklok.com/blog/2013/11/06/inspirations-more-than-a-year</id>
+    <id>http://carmenloklok.github.io/blog/2013/11/06/inspirations-more-than-a-year</id>
     <content type="html"><![CDATA[<p>本篇博客我已经拖了很久了，对我的朋友们道一声歉先。很感谢我的另一半，家人和朋友，他们是我一直坚持学习和努力的源动力之一，我知道只要朝着正确的方向努力，即使是我这样的凡人也能取得属于自己的成功。<strong>赢家在于永不言弃</strong><br/>
 第一篇博客我想写下自己这一年多的感悟，虽然我现在有许多的不足，但我会让自己变得越来越好。</p>
 
